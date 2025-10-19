@@ -53,8 +53,6 @@ namespace ConsoleApp2
             }
 
             Console.WriteLine();
-            Console.WriteLine("Нажмите любую клавишу для выхода...");
-            Console.ReadKey();
         }
     }
 }
